@@ -1,5 +1,5 @@
-# YOUTUBE VIDEO SUMMARIZER USING AN EXTENSION:
-A chrome extension to summarise any long YouTube videos by utilising YouTube's transcript feature. 
+# Yotube Video Summarizer using an Extension:
+A chrome extension to summarise any long YouTube videos by utilising YouTube's transcript feature. Whenever click the summarizer button it calls the summarizer api in python that returns the summarised text which is being displayed by the chrome extension. 
 
 # Technology Used:
 1) Python
@@ -13,7 +13,6 @@ A chrome extension to summarise any long YouTube videos by utilising YouTube's t
   - ```transformers``` - pip install transformers
 - Summarizer API - in python
 - Chrome Extension - HTML, JS
-- Whenever click the summarizer button it calls the summarizer api in python that returns the summarised text which is being displayed by the chrome extension
 
 ## Instructions
 - Run ```app.py``` to start the summarizer API.
