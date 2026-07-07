@@ -36,6 +36,29 @@ Youtube Video Summarizer is a browser-extension-based project that summarizes th
 
 ---
 
+## 🎓 Skills Gained
+
+### Backend Development
+
+- ✅ Building a lightweight REST endpoint using Flask
+- ✅ Parsing and validating URL query input for API processing
+- ✅ Connecting API logic to NLP summarization flow
+
+### NLP Integration
+
+- ✅ Extracting video transcripts with `youtube-transcript-api`
+- ✅ Applying transformer-based summarization in Python
+- ✅ Handling long transcript text through chunk-wise summarization
+
+### Browser Extension Development
+
+- ✅ Creating a Manifest V3 extension structure
+- ✅ Reading active tab URLs with Chrome extension APIs
+- ✅ Integrating popup UI actions with backend API calls
+- ✅ Rendering asynchronous API responses in extension UI
+
+---
+
 ## 📂 Project Structure
 
 ```text
