@@ -65,7 +65,7 @@ Youtube Video Summarizer is a browser-extension-based project that summarizes th
 Youtube-Video-Summarizer-main/
 └── YouTube-Video-Summariser-main/
   ├── app.py                          # Flask API: transcript fetch + summarization endpoint
-    └── extension/
+  └── extension/
     ├── manifest.json               # Extension configuration, permissions, popup mapping
     ├── popup.html                  # Extension popup UI layout
     ├── popup.js                    # Active-tab URL capture + API call + summary rendering
